@@ -7,7 +7,7 @@ Front-end app
 Front-end application written in [Node.js](https://nodejs.org/en/) that puts together all of the microservices under [microservices-demo](https://github.com/microservices-demo/microservices-demo).
 
 
-# Setting up Dev Env
+# Setting up Dev Environment
 
 Platform : Ubuntu 18.04.05
 
